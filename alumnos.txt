@@ -1,0 +1,5 @@
+17,Luis,Carmona,1.63,REGULAR
+18,JONA,MA,1.70,REGULAR
+19,Enrique,Jimenes,1.60,REGULAR
+20,Cristian,Sarmiento,1.90,REGULAR
+22,Laura,Molina,1.60,REGULAR
